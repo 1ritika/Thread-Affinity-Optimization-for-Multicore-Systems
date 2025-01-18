@@ -35,7 +35,7 @@ This function reads affinity.txt to retrieve and assign the best core for each t
 ## Usage
 Run the program using the command:
 
-$ SEED=24244 make run
+$ SEED=2xxxx make run
 
 - The program will:
  
