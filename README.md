@@ -1,4 +1,4 @@
-## Assignment 3 Part B - The Tale of the Three Threads and Two Cores: A Threading Dilemma
+## The Tale of the Three Threads and Two Cores: A Threading Dilemma
  
 ## Overview
 This project focuses on optimizing the execution of three threads (T_0, T_1, and T_2) on a system with two physical CPU cores, each supporting two-way simultaneous multithreading (SMT). The goal is to improve performance by setting optimal thread-to-core affinity based on performance metrics collected via the `perf` tool.
